@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://exist-db.org/ns/expath-pkg">
+    <jar>lucene-analyzers-smartcn-4.10.4.jar</jar>
+</package>

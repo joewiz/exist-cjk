@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<meta xmlns="http://exist-db.org/xquery/repo">
+    <description>eXist CJK</description>
+    <author>Joe Wicentowski</author>
+    <author>Duncan Paterson</author>
+    <website>https://github.com/joewiz/exist-cjk</website>
+    <status>alpha</status>
+    <license>GNU-LGPL</license>
+    <copyright>true</copyright>
+    <type>application</type>
+    <target>exist-cjk</target>
+    <prepare>pre-install.xql</prepare>
+    <finish/>
+    <permissions user="cjk-user" group="cjk-group" mode="rw-rw-r--"/>
+</meta>
