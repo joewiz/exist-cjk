@@ -43,4 +43,4 @@ Once you determine the language variants used in your documents, eXist supports 
 ### Credits
 
 *   Icons made by [Freepik](http://www.freepik.com) from [Flaticon](https://www.flaticon.com/) is licensed by [CC 3.0 BY](http://creativecommons.org/licenses/by/3.0/).
-*   The SmartCN analyzer was extracted from Apache Lucene. Lucene released under the [Apache Software License](http://www.apache.org/licenses/LICENSE-2.0).
+*   The SmartCN analyzer was extracted from Apache Lucene. Lucene is released under the [Apache Software License](http://www.apache.org/licenses/LICENSE-2.0).
