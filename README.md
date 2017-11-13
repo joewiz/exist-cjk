@@ -40,3 +40,6 @@ Once you determined the language variant eXist-db supports three basic option fo
 *   (add CJK analysers of Stanford NLP-app?)
 *   Translate this document into Chinese?
 *   Add Japanese & Korean.
+
+### Credits
+Icons made by [Freepik](http://www.freepik.com) from [Flaticon](https://www.flaticon.com/) is licensed by  [CC 3.0 BY](http://creativecommons.org/licenses/by/3.0/)
