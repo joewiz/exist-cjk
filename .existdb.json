@@ -3,7 +3,7 @@
         "localhost": {
             "server": "http://localhost:8080/exist",
             "user": "admin",
-            "password": ""
+            "password": "mCpw789"
         }
     },
     "sync": {
@@ -18,4 +18,3 @@
         ]
     }
 }
-
